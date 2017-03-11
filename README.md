@@ -1,2 +1,4 @@
 # 2-player-tic-tac-toe
-Repository containing tic-tac-toe source code
+Contains simple C code for 2 player based tic tac toe game</br>
+Doesn't contain graphics</br>
+Compiled code is supposed to be run in the terminal itself
